@@ -1,5 +1,5 @@
 # CommandLine
-Version: 0.0.3
+Version: 0.0.1
 
 ## Notices:
 - The first time you start up CL you must use the default account.
