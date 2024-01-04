@@ -1,0 +1,218 @@
+TIME STAMPS ARE IN UTC
+[ 2023-12-18 22:40:06.468336 ] DEBUG: Program started.
+[ 2023-12-18 22:40:11.930376 ] INFO: "template 5" was executed.
+[ 2023-12-18 22:40:36.108292 ] DEBUG: Program started.
+[ 2023-12-18 22:40:40.168130 ] INFO: "template 5" was executed.
+[ 2023-12-18 22:43:00.571516 ] DEBUG: Program started.
+[ 2023-12-18 22:43:07.638125 ] WARN: Invalid parameters. Need at least 1. Try using a -n?
+[ 2023-12-18 22:43:14.381153 ] WARN: "templ.py" was not found.
+[ 2023-12-18 22:43:38.802042 ] WARN: Invalid parameters. Need at least 1. Try using a -n?
+[ 2023-12-18 22:43:44.044330 ] WARN: "blank.py" was not found.
+[ 2023-12-18 22:43:50.278807 ] DEBUG: Program started.
+[ 2023-12-18 22:43:53.874129 ] WARN: Invalid parameters. Need at least 1. Try using a -n?
+[ 2023-12-18 22:43:58.430116 ] ERROR: "blank.py" is not formatted correctly. Missing "execute_command(parameters)" function." 
+[ 2023-12-18 22:44:04.716256 ] ERROR: "blank.py" is not formatted correctly. Missing "execute_command(parameters)" function." 
+[ 2023-12-18 22:44:08.815989 ] ERROR: "blank.py" is not formatted correctly. Missing "execute_command(parameters)" function." 
+[ 2023-12-18 22:44:38.671422 ] DEBUG: Program started.
+[ 2023-12-18 22:44:49.605309 ] ERROR: "blank.py" is not formatted correctly. Missing "get_help(parameters)" function." 
+[ 2023-12-18 22:44:53.701648 ] ERROR: "blank.py" is not formatted correctly. Missing "get_about(parameters)" function." 
+[ 2023-12-18 22:45:00.798836 ] INFO: "template -a" was executed.
+[ 2023-12-18 22:45:15.355476 ] DEBUG: Program started.
+[ 2023-12-18 22:45:23.404307 ] ERROR: "blank.py" is not formatted correctly. Missing "get_about(parameters)" function." 
+[ 2023-12-18 22:45:28.001024 ] INFO: "blank -h" was executed.
+[ 2023-12-18 23:01:36.945038 ] DEBUG: Program started.
+[ 2023-12-18 23:01:41.523870 ] WARN: "Null.py" was not found.
+[ 2023-12-18 23:01:42.324172 ] WARN: "Null.py" was not found.[ 2023-12-18 23:16:02.585839 ] DEBUG: Program started.
+[ 2023-12-18 23:16:09.669646 ] WARN: Invalid parameters. Need at least 1. Try using a -n?
+[ 2023-12-18 23:16:15.558050 ] INFO: "template -n" was executed.
+[ 2023-12-18 23:16:20.026462 ] INFO: "template -a" was executed.
+[ 2023-12-18 23:16:23.801813 ] INFO: "template -h" was executed.
+[ 2023-12-18 23:16:28.022551 ] WARN: Invalid parameters. Need at least 1. Try using a -n?
+[ 2023-12-18 23:16:49.012960 ] WARN: "templat.py" was not found.[ 2023-12-18 23:26:16.645520 ] DEBUG: Program started.
+[ 2023-12-18 23:26:32.153491 ] INFO: New login attempt with username 'test'.
+[ 2023-12-18 23:43:57.129054 ] DEBUG: Program started.
+[ 2023-12-18 23:44:03.250121 ] INFO: New login attempt with username 'test'.
+[ 2023-12-18 23:53:20.531038 ] DEBUG: Program started.
+[ 2023-12-18 23:53:35.094900 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-18 23:55:04.921159 ] DEBUG: Program started.
+[ 2023-12-18 23:55:08.971069 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-18 23:55:35.521448 ] DEBUG: Program started.
+[ 2023-12-18 23:55:50.319200 ] DEBUG: Program started.
+[ 2023-12-18 23:55:54.751323 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-18 23:56:24.421252 ] DEBUG: Program started.
+[ 2023-12-18 23:56:29.201409 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-18 23:57:20.449925 ] DEBUG: Program started.
+[ 2023-12-18 23:57:25.620815 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-18 23:57:40.320775 ] DEBUG: Program started.
+[ 2023-12-18 23:57:43.415850 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-19 00:03:43.662308 ] DEBUG: Program started.
+[ 2023-12-19 00:03:59.486859 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-19 00:03:59.487141 ] INFO: Failed login attempt with username NAME.
+[ 2023-12-19 00:04:28.597898 ] DEBUG: Program started.
+[ 2023-12-19 00:04:36.458002 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-19 00:04:36.458302 ] INFO: Failed login attempt with username NAME.
+[ 2023-12-19 00:05:19.879925 ] DEBUG: Program started.
+[ 2023-12-19 00:06:05.203726 ] DEBUG: Program started.
+[ 2023-12-19 00:06:09.292140 ] INFO: New login attempt with username 'NAME'.
+[ 2023-12-19 00:07:07.705539 ] DEBUG: Program started.
+[ 2023-12-19 00:07:07.705672 ] INFO: 81309712056320
+[ 2023-12-19 00:07:34.991801 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:07:41.465198 ] DEBUG: Program started.
+[ 2023-12-19 00:07:41.465341 ] INFO: 81309712056320
+[ 2023-12-19 00:07:50.798333 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:08:44.064915 ] DEBUG: Program started.
+[ 2023-12-19 00:08:44.065061 ] INFO: 81309712056320
+[ 2023-12-19 00:08:48.484572 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:08:48.484853 ] INFO: Successful login attempt.
+[ 2023-12-19 00:17:32.903774 ] DEBUG: Program started.
+[ 2023-12-19 00:17:44.095988 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:17:44.096225 ] INFO: Successful login attempt.
+[ 2023-12-19 00:25:43.315973 ] DEBUG: Program started.
+[ 2023-12-19 00:25:49.627798 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:25:49.628055 ] INFO: Successful login attempt.
+[ 2023-12-19 00:25:59.023618 ] DEBUG: Program started.
+[ 2023-12-19 00:26:02.753544 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:26:02.753810 ] INFO: Successful login attempt.
+[ 2023-12-19 00:26:11.627598 ] DEBUG: Program started.
+[ 2023-12-19 00:26:15.976619 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:26:15.976842 ] INFO: Successful login attempt.
+[ 2023-12-19 00:26:29.999671 ] DEBUG: Program started.
+[ 2023-12-19 00:26:34.191176 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:26:34.191426 ] INFO: Successful login attempt.
+[ 2023-12-19 00:26:56.814421 ] DEBUG: Insufficiant rank.
+[ 2023-12-19 00:27:11.516453 ] DEBUG: Program started.
+[ 2023-12-19 00:27:16.631733 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:27:16.632000 ] INFO: Successful login attempt.
+[ 2023-12-19 00:27:28.041617 ] WARN: "does.py" was not found.
+[ 2023-12-19 00:28:04.581843 ] DEBUG: Program started.
+[ 2023-12-19 00:28:09.300977 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:28:09.301229 ] INFO: Successful login attempt.
+[ 2023-12-19 00:28:14.748909 ] INFO: New login attempt with username 'd'.
+[ 2023-12-19 00:28:14.749146 ] INFO: Failed login attempt with username d.
+[ 2023-12-19 00:28:19.462614 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:28:19.462861 ] INFO: Failed login attempt with username admin.
+[ 2023-12-19 00:28:29.381889 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:28:29.382122 ] INFO: Successful login attempt.
+[ 2023-12-19 00:28:42.736101 ] DEBUG: Program started.
+[ 2023-12-19 00:28:47.867567 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:29:07.473787 ] DEBUG: Program started.
+[ 2023-12-19 00:29:11.842936 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:29:11.843186 ] INFO: Successful login attempt.
+[ 2023-12-19 00:30:44.275258 ] DEBUG: Program started.
+[ 2023-12-19 00:30:50.009856 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:30:50.010116 ] INFO: Successful login attempt.
+[ 2023-12-19 00:34:31.054429 ] DEBUG: Program started.
+[ 2023-12-19 00:34:34.603828 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:34:34.604111 ] INFO: Successful login attempt.
+[ 2023-12-19 00:35:02.925207 ] DEBUG: Program started.
+[ 2023-12-19 00:35:07.013252 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:35:07.013504 ] ERROR: Invalid password format at user test
+[ 2023-12-19 00:35:23.046201 ] DEBUG: Program started.
+[ 2023-12-19 00:35:31.102096 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:35:31.102373 ] ERROR: Invalid password format at user test
+[ 2023-12-19 00:36:25.690757 ] DEBUG: Program started.
+[ 2023-12-19 00:36:30.586029 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:36:30.586316 ] ERROR: Invalid password format at user test
+[ 2023-12-19 00:36:43.865659 ] DEBUG: Program started.
+[ 2023-12-19 00:36:49.531888 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:36:49.532134 ] INFO: Successful login attempt.
+[ 2023-12-19 00:38:43.416012 ] DEBUG: Program started.
+[ 2023-12-19 00:41:12.307514 ] DEBUG: Program started.
+[ 2023-12-19 00:41:17.099527 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:41:17.099820 ] INFO: Successful login attempt.
+[ 2023-12-19 00:42:30.491362 ] DEBUG: Program started.
+[ 2023-12-19 00:42:39.727839 ] INFO: New login attempt with username 'admin'.
+[ 2023-12-19 00:42:39.728123 ] INFO: Successful login attempt.
+[ 2023-12-19 00:43:02.576011 ] DEBUG: Program started.
+[ 2023-12-19 00:43:06.206164 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 00:43:06.206478 ] INFO: Successful login attempt.
+[ 2023-12-19 00:43:10.320184 ] DEBUG: Insufficiant cu rank.
+[ 2023-12-19 18:18:15.292345 ] DEBUG: Program started.
+[ 2023-12-19 21:01:14.363979 ] DEBUG: Program started.
+[ 2023-12-19 21:01:21.336083 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 21:01:21.336324 ] INFO: Failed login attempt with username test.
+[ 2023-12-19 21:01:31.764010 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:01:31.764269 ] INFO: Successful login attempt.
+[ 2023-12-19 21:01:57.572709 ] INFO: New login attempt with username 'fan'.
+[ 2023-12-19 21:01:57.572994 ] INFO: Successful login attempt.
+[ 2023-12-19 21:06:04.544481 ] DEBUG: Program started.
+[ 2023-12-19 21:06:17.383915 ] DEBUG: Program started.
+[ 2023-12-19 21:06:58.889435 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 21:06:58.889673 ] INFO: Failed login attempt with username test.
+[ 2023-12-19 21:07:02.565291 ] INFO: New login attempt with username 'test'.
+[ 2023-12-19 21:07:02.565513 ] INFO: Failed login attempt with username test.
+[ 2023-12-19 21:07:12.832470 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:07:12.832743 ] INFO: Successful login attempt.
+[ 2023-12-19 21:07:48.413418 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:07:48.413611 ] INFO: Successful login attempt.
+[ 2023-12-19 21:07:56.763495 ] INFO: New login attempt with username 'fan'.
+[ 2023-12-19 21:16:41.421179 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:16:41.421389 ] INFO: Successful login attempt.
+[ 2023-12-19 21:16:49.851025 ] WARN: System to create user 'fanfare', but user already exists!
+[ 2023-12-19 21:16:59.049402 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:16:59.049633 ] INFO: Successful login attempt.
+[ 2023-12-19 21:17:22.840895 ] WARN: System to create user 'fanfare', but user already exists!
+[ 2023-12-19 21:17:32.454206 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:17:32.454785 ] INFO: Successful login attempt.
+[ 2023-12-19 21:18:09.963837 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:18:09.964107 ] INFO: Successful login attempt.
+[ 2023-12-19 21:18:13.820381 ] DEBUG: Insufficiant su rank.
+[ 2023-12-19 21:19:34.799346 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:19:34.799562 ] INFO: Successful login attempt.
+[ 2023-12-19 21:23:40.763657 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:23:40.763830 ] INFO: Successful login attempt.
+[ 2023-12-19 21:23:43.888881 ] DEBUG: Insufficiant rank or that user doesn't exist.
+[ 2023-12-19 21:28:17.232572 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:28:42.981403 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:28:42.981583 ] INFO: Failed login attempt with username tom.
+[ 2023-12-19 21:28:51.296946 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:28:51.297156 ] INFO: Successful login attempt.
+[ 2023-12-19 21:29:02.745671 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:29:02.745926 ] INFO: Failed login attempt with username tom.
+[ 2023-12-19 21:29:14.951436 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:29:14.951726 ] INFO: Successful login attempt.
+[ 2023-12-19 21:29:43.262958 ] WARN: System to create user 'tom', but user already exists!
+[ 2023-12-19 21:29:54.141665 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:29:54.141894 ] INFO: Successful login attempt.
+[ 2023-12-19 21:30:01.211521 ] WARN: System to create user 'tom', but user already exists!
+[ 2023-12-19 21:30:25.210528 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:30:25.210724 ] INFO: Successful login attempt.
+[ 2023-12-19 21:32:14.543413 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:32:14.543655 ] INFO: Failed login attempt with username fanfare.
+[ 2023-12-19 21:32:21.744443 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:32:21.744680 ] INFO: Failed login attempt with username fanfare.
+[ 2023-12-19 21:33:08.171735 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:33:08.171966 ] INFO: Failed login attempt with username fanfare.
+[ 2023-12-19 21:33:12.427800 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:33:12.428049 ] INFO: Successful login attempt.
+[ 2023-12-19 21:33:15.341338 ] DEBUG: Insufficiant rank or that user doesn't exist.
+[ 2023-12-19 21:35:44.554704 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:35:44.554912 ] INFO: Successful login attempt.
+[ 2023-12-19 21:35:53.651763 ] DEBUG: Insufficiant rank or that user doesn't exist.
+[ 2023-12-19 21:37:18.690270 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:37:18.690563 ] INFO: Failed login attempt with username fanfare.
+[ 2023-12-19 21:37:28.701284 ] INFO: New login attempt with username 'tom tommy'.
+[ 2023-12-19 21:39:18.587506 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:39:18.587792 ] INFO: Successful login attempt.
+[ 2023-12-19 21:48:55.337023 ] INFO: New login attempt with username 'fanfare'.
+[ 2023-12-19 21:48:55.337465 ] INFO: Failed login attempt with username fanfare.
+[ 2023-12-19 21:49:03.117547 ] INFO: New login attempt with username 'tom tommy'.
+[ 2023-12-19 21:49:03.117773 ] ERROR: Invalid password format at user tom tommy
+[ 2023-12-19 21:49:09.558741 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:49:09.559033 ] INFO: Successful login attempt.
+[ 2023-12-19 21:50:23.672314 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:50:23.672531 ] INFO: Successful login attempt.
+[ 2023-12-19 21:50:26.492851 ] WARN: Invalid parameters. Try using a -n?
+[ 2023-12-19 21:50:30.246779 ] WARN: "asdf.py" was not found.
+[ 2023-12-19 21:50:36.657870 ] WARN: Invalid parameters. Try using a -n?
+[ 2023-12-19 21:50:41.523988 ] INFO: "epic -n" was executed.
+[ 2023-12-19 21:53:11.781051 ] INFO: New login attempt with username 'tom'.
+[ 2023-12-19 21:53:11.781302 ] INFO: Successful login attempt.
+[ 2023-12-19 21:53:16.475121 ] INFO: "epic -n" was executed.
+[ 2023-12-19 21:53:27.636009 ] WARN: "now.py" was not found.
+[ 2023-12-19 21:53:32.503156 ] WARN: "now.py" was not found.
+[ 2023-12-19 21:53:37.655599 ] WARN: Invalid parameters. Try using a -n?
+[ 2023-12-19 21:53:46.270593 ] INFO: "epic df" was executed.
+[ 2023-12-19 21:53:50.960393 ] WARN: Invalid parameters. Try using a -n?
+[ 2023-12-19 21:54:13.574400 ] WARN: Invalid parameters. Try using a -n?
+[ 2023-12-19 21:54:16.691262 ] WARN: "barn.py" was not found.
